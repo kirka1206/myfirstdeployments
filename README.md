@@ -249,12 +249,12 @@ Log in to **IBM Cloud** by issuing one of the following commands. Use the same r
 
  Region: US South
  <div style="background-color:black;color:white; vertical-align: middle; padding:10px;margin-bottom:30px"><b>
- `bx login -a https://api.ng.bluemix.net`
+ ```bx login -a https://api.ng.bluemix.net```
  </b></a></div>
  
  Region: United Kingdom
  <div style="background-color:black;color:white; vertical-align: middle; padding:10px; margin-bottom:30px"><b>
- `bx login -a https://api.eu-gb.bluemix.net`
+ ```bx login -a https://api.eu-gb.bluemix.net`
  </b></a></div>
  
  Region: Sydney
