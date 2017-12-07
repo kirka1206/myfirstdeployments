@@ -16,8 +16,36 @@
 
 # Table of Content
 
-
-[[toc]]
+IBM Cloud - First Deployments
+Table of Content
+1. Platform Overview
+2. Objectives
+3. Deploy with the console
+Task 1 : Login to IBM Cloud
+Task 2 : Access the Dashboard
+Task 3 : Catalog
+Task 4 : Boilerplates
+Task 5 : Create a sample app
+Task 6 : Review and create
+Task 7 : The app is running
+Task 8 : Get access to the app
+Task 9 : Using the new app
+Results
+4. Modify and re-deploy with the CLI
+Task 1 : Download the code
+Task 2 : Delete the app in the IBM Cloud
+Task 3 : Go to the directory
+Task 4 : login with the CLI
+Task 5 : Create a DB
+Task 6 : Push the app
+Task 7 : Bind the App and the DB
+Task 8 : Test the app
+Task 9 : Modify app.js
+Task 10 : Use Cloudant DB console
+Task 11 : Push the modified app
+Task 12 : Delete app and service
+Results
+End of Lab
 
 +++
 
